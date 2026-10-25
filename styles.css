@@ -18,6 +18,10 @@ nav{
     top: 2%;
     right: 3%;
 }
+a{
+    color: white;
+    text-decoration: none;
+}
 h4{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     
@@ -49,7 +53,7 @@ section{
     position: absolute;
 
 }
-button{
+.button{
     padding-left: 15%;
     padding-right: 15%;
     padding-top: 5%;

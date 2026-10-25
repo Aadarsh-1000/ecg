@@ -1,0 +1,60 @@
+    nav{
+    display: flex;
+    color: white;
+    font-family: poppins;
+    gap: 15px;
+    position: absolute;
+    top: 2%;
+    right: 3%;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+button{
+    font-family: poppins;
+    background: #000000b9;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+}
+button:hover{
+   
+    font-family: poppins;
+    background: #0000002c;
+    border: 2px solid rgba(0, 0, 0, 0.167);
+    border-radius: 10px;
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+
+}
+    input{
+        padding: 10px;
+        border-radius: 10px;
+        border: 2px solid black;
+        font-family: 'poppins';
+        text-align: center;
+        background-color: aliceblue;
+        margin-left: 40%;
+        margin-top: 2%;
+        font-size: 20px;
+    }
+    .chart-container{
+        height: 70vh;
+        position: relative;
+        padding: 20px;
+        border-radius: 20px;
+        width: 70vw;
+        margin-left: 15%;
+        font-family: poppins;
+        background-color: rgb(48, 52, 50);
+        margin-top: 2%;
+       
+    }
+    body{
+         align-items: center;
+         background-color: rgba(20, 19, 19, 0.897);
+    }
